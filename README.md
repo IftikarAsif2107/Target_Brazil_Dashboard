@@ -1,5 +1,3 @@
-Brazil E-Commerce Performance Analysis (2016–2018)
-
 **Project Overview**
 
 This project analyzes Brazil’s e-commerce performance from 2016 to 2018 using SQL (BigQuery) and Tableau.
